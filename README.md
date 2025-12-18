@@ -26,6 +26,8 @@ Purpose: Demonstrate AI automation in accounting, flexible data handling, reduce
 <img width="1470" height="833" alt="2" src="https://github.com/user-attachments/assets/c9a23216-2449-4c28-aaa6-8b042bd932c9" />
 <img width="513" height="834" alt="79" src="https://github.com/user-attachments/assets/3ce2d984-58fa-412c-a5d0-e06d8c7b5f64" />
 <img width="503" height="826" alt="78" src="https://github.com/user-attachments/assets/68810a0e-63f0-48a7-8e68-44506aa9f867" />
+<img width="672" height="737" alt="17" src="https://github.com/user-attachments/assets/195a1be5-c22c-44ae-9c80-73f43004e5fe" />
+
 
 
 
