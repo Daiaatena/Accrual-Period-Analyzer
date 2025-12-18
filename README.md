@@ -18,3 +18,11 @@ Run the analyzer to calculate periods and assign them to age buckets.
 Review flagged warnings and visualize results.
 
 Purpose: Demonstraet AI automation in accounting, flexible data handling, reduces manual work, and improve workflow efficiency.
+
+<img width="1470" height="398" alt="155" src="https://github.com/user-attachments/assets/5da33f32-a7b7-459b-a311-90aaa630d2ff" />
+
+
+<img width="1470" height="833" alt="2" src="https://github.com/user-attachments/assets/c9a23216-2449-4c28-aaa6-8b042bd932c9" />
+<img width="513" height="834" alt="79" src="https://github.com/user-attachments/assets/3ce2d984-58fa-412c-a5d0-e06d8c7b5f64" />
+<img width="503" height="826" alt="78" src="https://github.com/user-attachments/assets/68810a0e-63f0-48a7-8e68-44506aa9f867" />
+![10 2](https://github.com/user-attachments/assets/f5f6003f-1287-4f82-9c54-a69282d15e13)
