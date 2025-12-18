@@ -1,6 +1,6 @@
 Description: 
 
-Inspired by a challenge to explore creative AI solutions, I developed the Accrual Period Analyzer as a personal project to automate accrual period analysis.
+Inspired by a challenge to explore creative AI solutions, I built an workflow tool on top of an existing AI platform to automate accrual period analysis, create age buckets and flag inconsistencies.
 Includes warnings and error highlighting to help users quickly review potential issues.
 Built using no companies specific data
 
