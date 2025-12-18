@@ -18,7 +18,7 @@ Load your accrual period data ( with text notes like "December", "November", "Q1
 Run the analyzer to calculate periods and assign them to age buckets.
 Review flagged warnings and visualize results.
 
-Purpose: Demonstraet AI automation in accounting, flexible data handling, reduces manual work, and improve workflow efficiency.
+Purpose: Demonstrate AI automation in accounting, flexible data handling, reduces manual work, and improve workflow efficiency.
 
 <img width="1470" height="398" alt="155" src="https://github.com/user-attachments/assets/5da33f32-a7b7-459b-a311-90aaa630d2ff" />
 
