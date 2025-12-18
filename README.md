@@ -1,7 +1,7 @@
 Description: 
 
 Inspired by a challenge to explore creative AI solutions, I developed the Accrual Period Analyzer as a personal project to automate accrual period analysis.
-Includes warnings and error highlighting to helo users quickly review potential issues.
+Includes warnings and error highlighting to help users quickly review potential issues.
 Built using no companies specific data
 
 Features:
